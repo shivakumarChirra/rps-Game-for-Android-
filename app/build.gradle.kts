@@ -41,7 +41,6 @@ android {
 
 dependencies {
     implementation("com.google.android.material:material:1.9.0")
-//    implementation("com.google.android.gms:play-services-ads:22.1.0")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
@@ -51,7 +50,14 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.androidx.appcompat)
-    implementation(libs.play.services.ads.api)
+    implementation ("com.android.billingclient:billing:6.0.1")
+
+    // Google AdMob SDK
+    implementation("com.google.android.gms:play-services-ads:22.1.0")
+    implementation ("com.google.android.gms:play-services-ads:23.0.0")
+    // **Add Google Play Billing library here**
+    implementation("com.android.billingclient:billing:6.1.0")
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
