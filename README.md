@@ -1,11 +1,10 @@
-# ✊✋✌️ Rock Paper Scissors – Android App
+ ✊✋✌️ Rock Paper Scissors – Android App
 ![banner](banner.png)
 
 A simple and fun **Rock Paper Scissors** game built with Android Studio using **Kotlin**. The app features engaging UI, sound effects, and visual feedback to make each round exciting!
 
 ---
-
-## 🎮 Features
+ 🎮 Features
 
 - 🔘 Tap-to-play interface with Rock, Paper, or Scissors
 - 🤖 Random selection by the computer
@@ -15,8 +14,7 @@ A simple and fun **Rock Paper Scissors** game built with Android Studio using **
 - 🎨 Clean UI with card images and feedback visuals
 
 ---
-
-## 🧑‍💻 Technologies Used
+ 🧑‍💻 Technologies Used
 
 - **Kotlin** – Main programming language
 - **Android Studio** – Development environment
@@ -26,14 +24,14 @@ A simple and fun **Rock Paper Scissors** game built with Android Studio using **
 - **Drawable Resources** – For visual feedback (card images, overlays)
 
 ---
-
-## 📦 Installation
+ 📦 Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/rock-paper-scissors-android.git
-🙌 Author
 
+
+🙌 Author
 Shiva
 🌐 shivappz.netlify.app
 📧 your.email@example.com
