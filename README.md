@@ -1,4 +1,4 @@
- ✊✋✌️ Rock Paper Scissors – Android App
+## ✊✋✌️ Rock Paper Scissors – Android App
 ![banner](banner.png)
 
 A simple and fun **Rock Paper Scissors** game built with Android Studio using **Kotlin**. The app features engaging UI, sound effects, and visual feedback to make each round exciting!
